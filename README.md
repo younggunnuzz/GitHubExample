@@ -1,2 +1,2 @@
-# GitHubExample
-Repository for learning Git and GitHub
+# GitHub Example
+Навчальний репозиторій для вивчення GitHub.
